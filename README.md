@@ -1,6 +1,6 @@
 # 3in1
 Claim 20-40 Satoshi Btc Every Hours
-* 3 Website in 1 Script *
+* *3 Website in 1 Script*
 [1]. First, you have to register first on the three websites:
      🌏 WEB I    : https://mrrevolt.my.id/YqiJL
      🌏 WEB II   : https://mrrevolt.my.id/Rsyzw
