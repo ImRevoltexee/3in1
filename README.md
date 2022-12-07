@@ -15,8 +15,8 @@ Claim 20-40 Satoshi Btc Every Hours
 
 **[5]. php bot.php**
 
-* **For Api Key You must register on this website**
-     🌏 https://mrrevolt.my.id/uGnlm
+* **For Api Key You must register on this website:**
+https://mrrevolt.my.id/uGnlm
 * **And you are required to have a deposit in order to work**
 * **Minimum Deposit $3**
 
