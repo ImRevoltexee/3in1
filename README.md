@@ -20,4 +20,10 @@ Claim 20-40 Satoshi Btc Every Hours
 * **And you are required to have a deposit in order to work**
 * **Minimum Deposit $3**
 
-  😎👍
+  * **FOR SCREENSHOT THE RESULT 😎👍**
+
+
+
+
+ <img src="https://i.ibb.co/yyQkNp8/1670392739895.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+
